@@ -6,3 +6,5 @@
 3. Teradata.pdf -> Introductory Presentation sample on Teradata (Datawarehousing product). (P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD) 
 
 4. Web Application Document -> A sample document of a web application on a Lamp Stack
+
+5. Tableau infographic -> Anthony Bourdain Travels.png
