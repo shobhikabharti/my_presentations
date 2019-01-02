@@ -11,4 +11,4 @@
   <li> <b>Tableau Infographic</b> -> Anthony Bourdain Travels.png</li>
 </ol>
 
-<h6><b><i>P.S. These samples are uploaded for reference. These are checked for plagiarism and not representing full work on the subject. Please feel free to contanct on my LinkedIn to know more:</i></b> https://www.linkedin.com/in/shobhikabharti/</h6>
+<h6><b><i>P.S. These samples are uploaded for reference. These are checked for plagiarism and not representing full work on the subject. Please feel free to contact on my LinkedIn to know more:</i></b> https://www.linkedin.com/in/shobhikabharti/</h6>
