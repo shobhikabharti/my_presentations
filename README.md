@@ -6,7 +6,7 @@
 
   <li> <b>Teradata.pdf</b> -> Introductory <b><i>presentation</i></b> sample on Teradata (Datawarehousing product). <i>(P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD)</i></li>
 
-  <li> <b>Web Application Document</b> -> A sample document of a <b><i>web application developed on a LAMP Stack</li>
+  <li> <b>Web Application Document</b> -> A sample document of a <b><i>web application</i></b> developed on a LAMP Stack</li>
 
   <li> <b>Tableau Infographic</b> -> Anthony Bourdain Travels.png</li>
 </ol>
