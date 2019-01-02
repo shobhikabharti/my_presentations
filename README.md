@@ -1,10 +1,12 @@
 # Documents List
-1. Leaping into future or sabotaging the system -> Management Information Systems Coursework to critique on any two or three article on Nicholas Carr's blog which focusses on emerging trends in the technology 
+<ol>
+  <li> Leaping into future or sabotaging the system -> Management Information Systems Coursework to critique on any two or three article on Nicholas Carr's blog which focusses on emerging trends in the technology</li>
 
-2. Waste Management in Healthcare -> First part of the Data Analytics coursework is to present the basic Analytics overview and second part  coursework is to solve the business challenges faced by the 'Carolina Healthcare System.'
+  <li> Waste Management in Healthcare -> First part of the Data Analytics coursework is to present the basic Analytics overview and second part  coursework is to solve the business challenges faced by the 'Carolina Healthcare System.'</li>
 
-3. Teradata.pdf -> Introductory presentation sample on Teradata (Datawarehousing product). (P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD) 
+  <li> Teradata.pdf -> Introductory presentation sample on Teradata (Datawarehousing product). (P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD)</li>
 
-4. Web Application Document -> A sample document of a web application developed on a LAMP Stack
+  <li> Web Application Document -> A sample document of a web application developed on a LAMP Stack</li>
 
-5. Tableau Infographic -> Anthony Bourdain Travels.png
+  <li> Tableau Infographic -> Anthony Bourdain Travels.png</li>
+</ol>
