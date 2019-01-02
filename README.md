@@ -1,12 +1,12 @@
 # Documents List
 <ol>
-  <li> <b>Leaping into future or sabotaging the system </b>-> A critique sample on any three article on Nicholas Carr's blog which focusses on emerging trends in the technology</li>
+  <li> <b>Leaping into future or sabotaging the system </b>-> A <b><i>critique</i></b> sample on any three article on Nicholas Carr's blog which focusses on emerging trends in the technology</li>
 
-  <li> <b>Waste Management in Healthcare</b> -> First part of the Data Analytics sample is to discuss the basic Analytics overview and second part is to solve the business challenges faced by the 'Carolina Healthcare System.'</li>
+  <li> <b>Waste Management in Healthcare</b> -> First part of the <b><i>Data Analytics</i></b> sample is to discuss the basic Analytics overview and second part is to solve the business challenges faced by the 'Carolina Healthcare System.'</li>
 
-  <li> <b>Teradata.pdf</b> -> Introductory presentation sample on Teradata (Datawarehousing product). <i>(P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD)</i></li>
+  <li> <b>Teradata.pdf</b> -> Introductory <b><i>presentation</i></b> sample on Teradata (Datawarehousing product). <i>(P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD)</i></li>
 
-  <li> <b>Web Application Document</b> -> A sample document of a web application developed on a LAMP Stack</li>
+  <li> <b>Web Application Document</b> -> A sample document of a <b><i>web application developed on a LAMP Stack</li>
 
   <li> <b>Tableau Infographic</b> -> Anthony Bourdain Travels.png</li>
 </ol>
