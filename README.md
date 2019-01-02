@@ -3,8 +3,8 @@
 
 2. Waste Management in Healthcare -> First part of the Data Analytics coursework is to present the basic Analytics overview and second part  coursework is to solve the business challenges faced by the 'Carolina Healthcare System.'
 
-3. Teradata.pdf -> Introductory Presentation sample on Teradata (Datawarehousing product). (P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD) 
+3. Teradata.pdf -> Introductory presentation sample on Teradata (Datawarehousing product). (P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD) 
 
-4. Web Application Document -> A sample document of a web application on a Lamp Stack
+4. Web Application Document -> A sample document of a web application developed on a LAMP Stack
 
-5. Tableau infographic -> Anthony Bourdain Travels.png
+5. Tableau Infographic -> Anthony Bourdain Travels.png
