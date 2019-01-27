@@ -1,6 +1,6 @@
 # Documents List
 <ol>
- <li> <b>Integrating crowdsourced data into existing system for Preparedness, Immediate response & Reconstruction</b>-> A <b><i>preliminary study</i></b> on crowdsourcing in context of the World Food Programme</li>  
+ <li> <b>Integrating crowdsourced data into existing system for Preparedness, Immediate response & Reconstruction</b>-> A <b><i>preliminary study</i></b> on crowdsourcing in context of the World Food Programme. Independently researched post internship inspired by WFP's work in Food Security</li>  
   <li> <b>Leaping into future or sabotaging the system </b>-> A <b><i>critique</i></b> sample on any three article on Nicholas Carr's blog which focusses on emerging trends in the technology</li>
 
   <li> <b>Waste Management in Healthcare</b> -> First part of the <b><i>Data Analytics</i></b> sample is to discuss the basic Analytics overview and second part is to solve the business challenges faced by the 'Carolina Healthcare System.'</li>
