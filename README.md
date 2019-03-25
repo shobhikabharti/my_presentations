@@ -9,7 +9,6 @@
 
   <li> <b>Web Application Document</b> -> A sample document of a <b><i>web application</i></b> developed on a LAMP Stack</li>
 
-  <li> <b>Tableau Infographic</b> -> Anthony Bourdain Travels.png</li>
 </ol>
 
 <h6><b><i>P.S. These samples are my work on few topics and uploaded for reference. These are checked for plagiarism and not representing full work on the subject. Please feel free to contact on my LinkedIn to know more:</i></b> https://www.linkedin.com/in/shobhikabharti/</h6>
