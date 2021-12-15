@@ -1,6 +1,7 @@
 # Documents List
 <ol type=1>
 	<li> <b>Amber Alley </b>-> A Finale presentation work from IIT Kharagpur B Plan competitions (2013)</li> <br/>
+	<li> <b>Integrating crowdsourced data into existing system for Preparedness, Immediate response & Reconstruction</b>-> A sample Information Systems analysis on the United Nations World Food Programme after I completed my internship (2018)</li> <br/>
   	<li> <b>Leaping into future or sabotaging the system </b>-> A <b><i>critique</i></b> sample on any three article on Nicholas Carr's blog which focusses on emerging trends in the technology (University's assignment)</li><br/>
 	<li> <b>Waste Management in Healthcare</b> -> First part of the <b><i>Data Analytics</i></b> sample is to discuss the basic Analytics overview and second part is to solve the business challenges faced by the 'Carolina Healthcare System.' (University's assignment)</li><br/>
 	<li> <b>Teradata.pdf</b> -> Introductory <b><i>presentation</i></b> sample on Teradata (Datawarehousing product). <i>(P.S. FOR PREVIEW, IT WOULD TAKE SOME TIME TO LOAD)</i></li><br/>
