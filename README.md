@@ -1,6 +1,6 @@
 # Work Samples  
 
-Here goes the list of files as samples from my work experience and education. I curated a list of documents from varied areas of interests to showcase my expertise in the reserach and development area. Apart from the samples, I have created two folders for Executive Education post masters and my professional recognition around same. Currently, I am having experience in every area of Product Management incorporating various configuration strategies and my Cloud Transformation journey is maintained on separate GitHub space https://github.com/shobhikabharti/CloudComputing  
+Here goes the list of files as samples from my work experience and education. I curated a list of documents from varied areas of interests to showcase my expertise in the reserach and development area. Apart from the samples, I have created two folders for Executive Education and Professional recognition around same. Currently, I am having experience in every area of Product Management incorporating various configuration strategies and my Cloud Transformation journey is maintained on separate GitHub space https://github.com/shobhikabharti/CloudComputing  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
